@@ -23,7 +23,7 @@
     
     <text
         x="40"
-        y="48"
+        y="35"
         font-size="42"
         font-family="Arial"
         font-weight="700"
@@ -32,6 +32,18 @@
         Isa Rodríguez
 
     </text>
+    
+    <text
+        x="40"
+        y="90"
+        font-size="32"
+        font-family="Arial"
+        font-weight="520"
+        fill="url(#gradient)">
+
+    Transforming data into decisions
+
+</text>
 
 
 </svg>
