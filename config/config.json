@@ -1,1 +1,33 @@
-{}
+{
+    "banner": {
+        "width": 900,
+        "height": 150
+    },
+
+    "name": {
+        "text": "Isa Rodríguez",
+        "x": 40,
+        "y": 60,
+        "size": 42
+    },
+
+    "headline": {
+        "texts": [
+            "Transforming data into decisions",
+            "Building ideas into code"
+        ],
+        "x": 40,
+        "y": 105,
+        "size": 32
+    },
+
+    "cursor": {
+        "character": "|"
+    },
+
+    "gradient": [
+        "#FF5EA8",
+        "#A855F7",
+        "#38BDF8"
+    ]
+}
