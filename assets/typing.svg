@@ -22,16 +22,16 @@
     </defs>
     
     <text
-    x="40"
-    y="58"
-    font-size="38"
-    font-family="Arial"
-    font-weight="600"
-    fill="url(#gradient)">
+        x="40"
+        y="48"
+        font-size="42"
+        font-family="Arial"
+        font-weight="700"
+        fill="url(#gradient)">
+    
+        Isa Rodríguez
 
-    Building ideas into code
-
-</text>
+    </text>
 
 
 </svg>
