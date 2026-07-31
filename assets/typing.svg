@@ -2,7 +2,7 @@
     xmlns="http://www.w3.org/2000/svg"
     width="900"
     height="200"
-    viewBox="0 0 900 90">
+    viewBox="0 0 900 200">
 
     <defs>
 
@@ -23,7 +23,7 @@
     
     <text
         x="40"
-        y="35"
+        y="95"
         font-size="42"
         font-family="Arial"
         font-weight="700"
@@ -35,10 +35,10 @@
     
     <text
         x="40"
-        y="90"
+        y="150"
         font-size="32"
         font-family="Arial"
-        font-weight="520"
+        font-weight="600"
         fill="url(#gradient)">
 
     Transforming data into decisions
