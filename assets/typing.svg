@@ -20,5 +20,18 @@
         </linearGradient>
 
     </defs>
+    
+    <text
+    x="40"
+    y="58"
+    font-size="38"
+    font-family="Arial"
+    font-weight="600"
+    fill="url(#gradient)">
+
+    Building ideas into code
+
+</text>
+
 
 </svg>
