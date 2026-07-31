@@ -41,9 +41,21 @@
         font-weight="600"
         fill="url(#gradient)">
 
-    Transforming data into decisions
+        Transforming data into decisions
 
-</text>
+    </text>
+
+    <text
+        x="546"
+        y="149"
+        font-size="32"
+        font-family="Arial"
+        font-weight="600"
+        fill="url(#gradient)">
+
+        |
+
+    </text>
 
 
 </svg>
