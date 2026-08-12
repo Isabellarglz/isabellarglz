@@ -34,7 +34,7 @@
 
             <stop
                 offset="0%"
-                stop-color="#4A0010"/>
+                stop-color="#FF1744"/>
 
             <stop
                 offset="50%"
@@ -42,7 +42,7 @@
 
             <stop
                 offset="100%"
-                stop-color="#FF1744"/>
+                stop-color="#4A0010"/>
 
         </linearGradient>
 
