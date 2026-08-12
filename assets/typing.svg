@@ -34,15 +34,15 @@
 
             <stop
                 offset="0%"
-                stop-color="#FF1744"/>
+                stop-color="#FF5C70"/>
 
             <stop
                 offset="50%"
-                stop-color="#E60026"/>
+                stop-color="#FF0015"/>
 
             <stop
                 offset="100%"
-                stop-color="#4A0010"/>
+                stop-color="#8b0000"/>
 
         </linearGradient>
 
