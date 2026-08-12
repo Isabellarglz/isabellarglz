@@ -1,1 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=C770F0&lines=Isa+Rodríguez;Transforming+data+into+decisions;Building+ideas+into+code" />
+<!-- Esta es la animación de mi nombre -->
+<p align="center">
+  <img src="./assets/typing.svg" alt="Isa Rodríguez">
+</p>
