@@ -178,7 +178,7 @@ def generate_svg():
     disappear_start = (
         second_start
         + second_typing_time
-        + 2.0
+        + 4.0
     )
 
 

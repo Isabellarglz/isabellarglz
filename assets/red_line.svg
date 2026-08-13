@@ -1,0 +1,97 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="150"
+    height="2"
+    viewBox="0 0 150 2">
+
+    <defs>
+
+        <!-- ================================================== -->
+        <!-- COLORES DEL DEGRADADO -->
+        <!-- ================================================== -->
+
+        <linearGradient
+            id="redGradient"
+            x1="0%"
+            y1="0%"
+            x2="100%"
+            y2="0%">
+
+            <stop offset="0%" stop-color="#FF1744"/>
+            <stop offset="35%" stop-color="#F0143F"/>
+            <stop offset="65%" stop-color="#D91037"/>
+            <stop offset="100%" stop-color="#70051C"/>
+
+        </linearGradient>
+
+    </defs>
+
+
+    <!-- ================================================== -->
+    <!-- CUADROS -->
+    <!-- ================================================== -->
+
+    <g fill="url(#redGradient)">
+
+        <rect x="0"   y="0" width="2" height="2"/>
+        <rect x="3"   y="0" width="2" height="2"/>
+        <rect x="6"   y="0" width="2" height="2"/>
+        <rect x="9"   y="0" width="2" height="2"/>
+        <rect x="12"  y="0" width="2" height="2"/>
+        <rect x="15"  y="0" width="2" height="2"/>
+        <rect x="18"  y="0" width="2" height="2"/>
+        <rect x="21"  y="0" width="2" height="2"/>
+        <rect x="24"  y="0" width="2" height="2"/>
+        <rect x="27"  y="0" width="2" height="2"/>
+
+        <rect x="30"  y="0" width="2" height="2"/>
+        <rect x="33"  y="0" width="2" height="2"/>
+        <rect x="36"  y="0" width="2" height="2"/>
+        <rect x="39"  y="0" width="2" height="2"/>
+        <rect x="42"  y="0" width="2" height="2"/>
+        <rect x="45"  y="0" width="2" height="2"/>
+        <rect x="48"  y="0" width="2" height="2"/>
+
+        <rect x="51"  y="0" width="2" height="2"/>
+        <rect x="54"  y="0" width="2" height="2"/>
+        <rect x="57"  y="0" width="2" height="2"/>
+        <rect x="60"  y="0" width="2" height="2"/>
+        <rect x="63"  y="0" width="2" height="2"/>
+        <rect x="66"  y="0" width="2" height="2"/>
+        <rect x="69"  y="0" width="2" height="2"/>
+
+        <rect x="72"  y="0" width="2" height="2"/>
+        <rect x="75"  y="0" width="2" height="2"/>
+        <rect x="78"  y="0" width="2" height="2"/>
+        <rect x="81"  y="0" width="2" height="2"/>
+        <rect x="84"  y="0" width="2" height="2"/>
+        <rect x="87"  y="0" width="2" height="2"/>
+
+        <rect x="90"  y="0" width="2" height="2"/>
+        <rect x="93"  y="0" width="2" height="2"/>
+        <rect x="96"  y="0" width="2" height="2"/>
+        <rect x="99"  y="0" width="2" height="2"/>
+        <rect x="102" y="0" width="2" height="2"/>
+        <rect x="105" y="0" width="2" height="2"/>
+
+        <rect x="108" y="0" width="2" height="2"/>
+        <rect x="111" y="0" width="2" height="2"/>
+        <rect x="114" y="0" width="2" height="2"/>
+        <rect x="117" y="0" width="2" height="2"/>
+
+        <rect x="120" y="0" width="2" height="2"/>
+        <rect x="123" y="0" width="2" height="2"/>
+        <rect x="126" y="0" width="2" height="2"/>
+        <rect x="129" y="0" width="2" height="2"/>
+
+        <rect x="132" y="0" width="2" height="2"/>
+        <rect x="135" y="0" width="2" height="2"/>
+        <rect x="138" y="0" width="2" height="2"/>
+        <rect x="141" y="0" width="2" height="2"/>
+
+        <rect x="144" y="0" width="2" height="2"/>
+        <rect x="147" y="0" width="2" height="2"/>
+
+    </g>
+
+</svg>
