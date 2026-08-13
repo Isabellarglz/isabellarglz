@@ -1,1 +1,44 @@
-name: Update SVG
+name: Update Animated SVG
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "config/config.json"
+      - "scripts/generate_svg.py"
+      - "assets/fonts/Oswald-SemiBold.ttf"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate SVG
+        run: python scripts/generate_svg.py
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/typing.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update animated SVG"
+            git push
+          fi
