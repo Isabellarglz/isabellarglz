@@ -338,8 +338,15 @@ def generate_svg():
 
         <animate
             attributeName="opacity"
-            values="1;0;1"
-            dur="0.8s"
+            values="1;1;0;0"
+            keyTimes="
+                0;
+                {first_typing_time / cycle_duration};
+                {first_typing_time / cycle_duration};
+                1
+            "
+            dur="{cycle_duration}s"
+            calcMode="discrete"
             repeatCount="indefinite"/>
 
     </text>
