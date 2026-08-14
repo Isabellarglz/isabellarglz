@@ -54,7 +54,7 @@
     <!-- ================================================== -->
 
     <text
-        x="40"
+        x="20"
         y="60"
         font-size="42"
         font-family="Oswald"
@@ -72,7 +72,7 @@
 
     
     <text
-        x="40"
+        x="20"
         y="100"
         font-size="26"
         font-family="Oswald"
@@ -347,7 +347,7 @@
 
     
     <text
-        x="40"
+        x="20"
         y="135"
         font-size="26"
         font-family="Oswald"
