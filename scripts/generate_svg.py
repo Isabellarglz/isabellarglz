@@ -167,18 +167,18 @@ def generate_svg():
 
     second_start = (
         first_typing_time
-        + 1.0
+        + 0.6
     )
 
 
     # ========================================================
-    # 2 SEGUNDOS CON LAS DOS FRASES COMPLETAS
+    # 3 SEGUNDOS CON LAS DOS FRASES COMPLETAS
     # ========================================================
 
     disappear_start = (
         second_start
         + second_typing_time
-        + 4.0
+        + 3.0
     )
 
 
@@ -257,7 +257,7 @@ def generate_svg():
     # ANCHO DE LA PRIMERA FRASE
     # ========================================================
 
-    first_text_width = 555
+    first_text_width = 670
 
 
     # ========================================================
@@ -368,7 +368,7 @@ def generate_svg():
     # ANCHO DE LA SEGUNDA FRASE
     # ========================================================
 
-    second_text_width = 415
+    second_text_width = 500
 
 
     # ========================================================

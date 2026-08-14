@@ -7,8 +7,8 @@
     "name": {
         "text": "Isa Rodríguez",
         "x": 20,
-        "y": 60,
-        "size": 42
+        "y": 55,
+        "size": 55
     },
 
     "headline": {
@@ -18,7 +18,7 @@
         ],
         "x": 20,
         "y": 100,
-        "size": 26
+        "size": 32
     },
 
     "cursor": {

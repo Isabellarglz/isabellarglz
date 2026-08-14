@@ -55,8 +55,8 @@
 
     <text
         x="20"
-        y="60"
-        font-size="42"
+        y="55"
+        font-size="55"
         font-family="Oswald"
         font-weight="600"
         fill="url(#gradient)">
@@ -74,7 +74,7 @@
     <text
         x="20"
         y="100"
-        font-size="26"
+        font-size="32"
         font-family="Oswald"
         font-weight="600"
         fill="url(#gradient)">
@@ -83,256 +83,256 @@
         <tspan opacity="0">T<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.0;0.9932659932659933;1"
-            dur="11.88s"
+            keyTimes="0;0.0;0.9923664122137404;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">r<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.006734006734006734;0.9865319865319865;1"
-            dur="11.88s"
+            keyTimes="0;0.007633587786259542;0.9847328244274809;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">a<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.013468013468013467;0.9797979797979798;1"
-            dur="11.88s"
+            keyTimes="0;0.015267175572519083;0.9770992366412213;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.0202020202020202;0.9730639730639731;1"
-            dur="11.88s"
+            keyTimes="0;0.022900763358778622;0.9694656488549618;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">s<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.026936026936026935;0.9663299663299663;1"
-            dur="11.88s"
+            keyTimes="0;0.030534351145038167;0.9618320610687022;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">f<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.03367003367003367;0.9595959595959596;1"
-            dur="11.88s"
+            keyTimes="0;0.03816793893129771;0.9541984732824427;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">o<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.0404040404040404;0.9528619528619529;1"
-            dur="11.88s"
+            keyTimes="0;0.045801526717557245;0.9465648854961831;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">r<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.04713804713804714;0.946127946127946;1"
-            dur="11.88s"
+            keyTimes="0;0.0534351145038168;0.9389312977099236;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">m<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.05387205387205387;0.9393939393939393;1"
-            dur="11.88s"
+            keyTimes="0;0.061068702290076333;0.9312977099236641;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.0606060606060606;0.9326599326599326;1"
-            dur="11.88s"
+            keyTimes="0;0.06870229007633587;0.9236641221374046;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.06734006734006734;0.9259259259259258;1"
-            dur="11.88s"
+            keyTimes="0;0.07633587786259542;0.916030534351145;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">g<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.07407407407407407;0.9191919191919191;1"
-            dur="11.88s"
+            keyTimes="0;0.08396946564885496;0.9083969465648855;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.0808080808080808;0.9124579124579124;1"
-            dur="11.88s"
+            keyTimes="0;0.09160305343511449;0.9007633587786259;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">d<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.08754208754208755;0.9057239057239056;1"
-            dur="11.88s"
+            keyTimes="0;0.09923664122137404;0.8931297709923663;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">a<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.09427609427609428;0.8989898989898989;1"
-            dur="11.88s"
+            keyTimes="0;0.1068702290076336;0.8854961832061068;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">t<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.101010101010101;0.8922558922558922;1"
-            dur="11.88s"
+            keyTimes="0;0.11450381679389313;0.8778625954198472;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">a<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.10774410774410774;0.8855218855218854;1"
-            dur="11.88s"
+            keyTimes="0;0.12213740458015267;0.8702290076335877;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.11447811447811448;0.8787878787878788;1"
-            dur="11.88s"
+            keyTimes="0;0.1297709923664122;0.8625954198473281;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.1212121212121212;0.872053872053872;1"
-            dur="11.88s"
+            keyTimes="0;0.13740458015267173;0.8549618320610688;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.12794612794612795;0.8653198653198654;1"
-            dur="11.88s"
+            keyTimes="0;0.1450381679389313;0.847328244274809;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">t<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.13468013468013468;0.8585858585858587;1"
-            dur="11.88s"
+            keyTimes="0;0.15267175572519084;0.8396946564885497;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">o<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.1414141414141414;0.8518518518518519;1"
-            dur="11.88s"
+            keyTimes="0;0.16030534351145037;0.8320610687022901;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.14814814814814814;0.8451178451178452;1"
-            dur="11.88s"
+            keyTimes="0;0.16793893129770993;0.8244274809160306;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">d<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.15488215488215487;0.8383838383838385;1"
-            dur="11.88s"
+            keyTimes="0;0.17557251908396945;0.816793893129771;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">e<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.1616161616161616;0.8316498316498316;1"
-            dur="11.88s"
+            keyTimes="0;0.18320610687022898;0.8091603053435115;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">c<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.16835016835016833;0.8249158249158249;1"
-            dur="11.88s"
+            keyTimes="0;0.19083969465648853;0.8015267175572519;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.1750841750841751;0.8181818181818182;1"
-            dur="11.88s"
+            keyTimes="0;0.1984732824427481;0.7938931297709924;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">s<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.18181818181818182;0.8114478114478114;1"
-            dur="11.88s"
+            keyTimes="0;0.20610687022900764;0.7862595419847328;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.18855218855218855;0.8047138047138047;1"
-            dur="11.88s"
+            keyTimes="0;0.2137404580152672;0.7786259541984732;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">o<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.19528619528619526;0.797979797979798;1"
-            dur="11.88s"
+            keyTimes="0;0.2213740458015267;0.7709923664122137;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.202020202020202;0.7912457912457912;1"
-            dur="11.88s"
+            keyTimes="0;0.22900763358778625;0.7633587786259541;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">s<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.20875420875420875;0.7845117845117845;1"
-            dur="11.88s"
+            keyTimes="0;0.23664122137404578;0.7557251908396946;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
@@ -349,7 +349,7 @@
     <text
         x="20"
         y="135"
-        font-size="26"
+        font-size="32"
         font-family="Oswald"
         font-weight="600"
         fill="url(#gradient)">
@@ -358,192 +358,192 @@
         <tspan opacity="0">B<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.29292929292929293;0.9393939393939393;1"
-            dur="11.88s"
+            keyTimes="0;0.29389312977099236;0.9312977099236641;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">u<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.29966329966329963;0.9326599326599326;1"
-            dur="11.88s"
+            keyTimes="0;0.3015267175572519;0.9236641221374046;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3063973063973064;0.9259259259259258;1"
-            dur="11.88s"
+            keyTimes="0;0.30916030534351147;0.916030534351145;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">l<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3131313131313131;0.9191919191919191;1"
-            dur="11.88s"
+            keyTimes="0;0.316793893129771;0.9083969465648855;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">d<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.31986531986531985;0.9124579124579124;1"
-            dur="11.88s"
+            keyTimes="0;0.3244274809160305;0.9007633587786259;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.32659932659932656;0.9057239057239056;1"
-            dur="11.88s"
+            keyTimes="0;0.3320610687022901;0.8931297709923663;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3333333333333333;0.8989898989898989;1"
-            dur="11.88s"
+            keyTimes="0;0.33969465648854963;0.8854961832061068;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">g<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3400673400673401;0.8922558922558922;1"
-            dur="11.88s"
+            keyTimes="0;0.3473282442748092;0.8778625954198472;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3468013468013468;0.8855218855218854;1"
-            dur="11.88s"
+            keyTimes="0;0.3549618320610687;0.8702290076335877;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.35353535353535354;0.8787878787878788;1"
-            dur="11.88s"
+            keyTimes="0;0.36259541984732824;0.8625954198473281;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">d<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.36026936026936024;0.872053872053872;1"
-            dur="11.88s"
+            keyTimes="0;0.37022900763358774;0.8549618320610688;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">e<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.367003367003367;0.8653198653198654;1"
-            dur="11.88s"
+            keyTimes="0;0.3778625954198473;0.847328244274809;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">a<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.37373737373737365;0.8585858585858587;1"
-            dur="11.88s"
+            keyTimes="0;0.38549618320610685;0.8396946564885497;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">s<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.3804713804713804;0.8518518518518519;1"
-            dur="11.88s"
+            keyTimes="0;0.3931297709923664;0.8320610687022901;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.38720538720538716;0.8451178451178452;1"
-            dur="11.88s"
+            keyTimes="0;0.40076335877862596;0.8244274809160306;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">i<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.39393939393939387;0.8383838383838385;1"
-            dur="11.88s"
+            keyTimes="0;0.4083969465648855;0.816793893129771;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">n<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4006734006734006;0.8316498316498316;1"
-            dur="11.88s"
+            keyTimes="0;0.41603053435114506;0.8091603053435115;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">t<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4074074074074074;0.8249158249158249;1"
-            dur="11.88s"
+            keyTimes="0;0.4236641221374046;0.8015267175572519;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">o<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4141414141414141;0.8181818181818182;1"
-            dur="11.88s"
+            keyTimes="0;0.43129770992366406;0.7938931297709924;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">&#160;<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.42087542087542085;0.8114478114478114;1"
-            dur="11.88s"
+            keyTimes="0;0.4389312977099236;0.7862595419847328;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">c<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4276094276094276;0.8047138047138047;1"
-            dur="11.88s"
+            keyTimes="0;0.4465648854961832;0.7786259541984732;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">o<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4343434343434343;0.797979797979798;1"
-            dur="11.88s"
+            keyTimes="0;0.4541984732824427;0.7709923664122137;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">d<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.44107744107744107;0.7912457912457912;1"
-            dur="11.88s"
+            keyTimes="0;0.4618320610687023;0.7633587786259541;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
         <tspan opacity="0">e<animate
             attributeName="opacity"
             values="0;1;1;0"
-            keyTimes="0;0.4478114478114478;0.7845117845117845;1"
-            dur="11.88s"
+            keyTimes="0;0.4694656488549618;0.7557251908396946;1"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
         </tspan>
@@ -558,9 +558,9 @@
 
     
     <text
-        x="37.34375"
+        x="40.9375"
         y="100"
-        font-size="26"
+        font-size="32"
         font-family="Oswald"
         font-weight="600"
         fill="url(#gradient)">
@@ -569,9 +569,9 @@
 
         <animate
             attributeName="x"
-            values="37.34375;54.6875;72.03125;89.375;106.71875;124.0625;141.40625;158.75;176.09375;193.4375;210.78125;228.125;245.46875;262.8125;280.15625;297.5;314.84375;332.1875;349.53125;366.875;384.21875;401.5625;418.90625;436.25;453.59375;470.9375;488.28125;505.625;522.96875;540.3125;557.65625;575.0;575"
-            keyTimes="0.0;0.006734006734006734;0.013468013468013467;0.0202020202020202;0.026936026936026935;0.03367003367003367;0.0404040404040404;0.04713804713804714;0.05387205387205387;0.0606060606060606;0.06734006734006734;0.07407407407407407;0.0808080808080808;0.08754208754208755;0.09427609427609428;0.101010101010101;0.10774410774410774;0.11447811447811448;0.1212121212121212;0.12794612794612795;0.13468013468013468;0.1414141414141414;0.14814814814814814;0.15488215488215487;0.1616161616161616;0.16835016835016833;0.1750841750841751;0.18181818181818182;0.18855218855218855;0.19528619528619526;0.202020202020202;0.20875420875420875;0.7845117845117845"
-            dur="11.88s"
+            values="40.9375;61.875;82.8125;103.75;124.6875;145.625;166.5625;187.5;208.4375;229.375;250.3125;271.25;292.1875;313.125;334.0625;355.0;375.9375;396.875;417.8125;438.75;459.6875;480.625;501.5625;522.5;543.4375;564.375;585.3125;606.25;627.1875;648.125;669.0625;690.0;690"
+            keyTimes="0.0;0.007633587786259542;0.015267175572519083;0.022900763358778622;0.030534351145038167;0.03816793893129771;0.045801526717557245;0.0534351145038168;0.061068702290076333;0.06870229007633587;0.07633587786259542;0.08396946564885496;0.09160305343511449;0.09923664122137404;0.1068702290076336;0.11450381679389313;0.12213740458015267;0.1297709923664122;0.13740458015267173;0.1450381679389313;0.15267175572519084;0.16030534351145037;0.16793893129770993;0.17557251908396945;0.18320610687022898;0.19083969465648853;0.1984732824427481;0.20610687022900764;0.2137404580152672;0.2213740458015267;0.22900763358778625;0.23664122137404578;0.7557251908396946"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
 
@@ -580,11 +580,11 @@
             values="1;1;0;0"
             keyTimes="
                 0;
-                0.20875420875420875;
-                0.20875420875420875;
+                0.23664122137404578;
+                0.23664122137404578;
                 1
             "
-            dur="11.88s"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
 
@@ -600,7 +600,7 @@
     <text
         x="20"
         y="135"
-        font-size="26"
+        font-size="32"
         font-family="Oswald"
         font-weight="600"
         fill="url(#gradient)"
@@ -610,9 +610,9 @@
 
         <animate
             attributeName="x"
-            values="20;37.29166666666667;54.583333333333336;71.875;89.16666666666667;106.45833333333333;123.75;141.04166666666669;158.33333333333334;175.625;192.91666666666666;210.20833333333334;227.5;244.79166666666666;262.08333333333337;279.375;296.6666666666667;313.9583333333333;331.25;348.5416666666667;365.8333333333333;383.125;400.4166666666667;417.7083333333333;435.0;435"
-            keyTimes="0;0.29292929292929293;0.29966329966329963;0.3063973063973064;0.3131313131313131;0.31986531986531985;0.32659932659932656;0.3333333333333333;0.3400673400673401;0.3468013468013468;0.35353535353535354;0.36026936026936024;0.367003367003367;0.37373737373737365;0.3804713804713804;0.38720538720538716;0.39393939393939387;0.4006734006734006;0.4074074074074074;0.4141414141414141;0.42087542087542085;0.4276094276094276;0.4343434343434343;0.44107744107744107;0.4478114478114478;0.7845117845117845"
-            dur="11.88s"
+            values="20;40.83333333333333;61.666666666666664;82.5;103.33333333333333;124.16666666666667;145.0;165.83333333333334;186.66666666666666;207.5;228.33333333333334;249.16666666666666;270.0;290.8333333333333;311.6666666666667;332.5;353.3333333333333;374.1666666666667;395.0;415.8333333333333;436.6666666666667;457.5;478.3333333333333;499.1666666666667;520.0;520"
+            keyTimes="0;0.29389312977099236;0.3015267175572519;0.30916030534351147;0.316793893129771;0.3244274809160305;0.3320610687022901;0.33969465648854963;0.3473282442748092;0.3549618320610687;0.36259541984732824;0.37022900763358774;0.3778625954198473;0.38549618320610685;0.3931297709923664;0.40076335877862596;0.4083969465648855;0.41603053435114506;0.4236641221374046;0.43129770992366406;0.4389312977099236;0.4465648854961832;0.4541984732824427;0.4618320610687023;0.4694656488549618;0.7557251908396946"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
 
@@ -621,11 +621,11 @@
             values="0;1;1;0"
             keyTimes="
                 0;
-                0.29292929292929293;
-                0.7845117845117845;
+                0.29389312977099236;
+                0.7557251908396946;
                 1
             "
-            dur="11.88s"
+            dur="10.48s"
             calcMode="discrete"
             repeatCount="indefinite"/>
 
