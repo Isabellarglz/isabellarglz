@@ -6,7 +6,7 @@
 
     "name": {
         "text": "Isa Rodríguez",
-        "x": 6,
+        "x": 2,
         "y": 55,
         "size": 55
     },
@@ -16,7 +16,7 @@
             "Transforming data into decisions",
             "Building ideas into code"
         ],
-        "x": 6,
+        "x": 2,
         "y": 100,
         "size": 32
     },
