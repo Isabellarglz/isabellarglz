@@ -13,7 +13,9 @@ CONFIG_PATH = ROOT / "config" / "config.json"
 
 OUTPUT_PATH = ROOT / "assets" / "typing.svg"
 
-FONT_PATH = ROOT / "assets" / "fonts" / "Oswald-SemiBold.ttf"
+FONT_PATH = ROOT / "assets" / "fonts" / "JetBrainsMono-Medium.ttf"
+
+IMAGE_PATH = ROOT / "assets" / "esquina.png"
 
 
 # ============================================================
@@ -32,12 +34,22 @@ gradient_colors = config["gradient"]
 
 
 # ============================================================
-# LEER E INCRUSTAR LA FUENTE OSWALD
+# LEER E INCRUSTAR LA FUENTE JetBrains Mono
 # ============================================================
 
 with open(FONT_PATH, "rb") as font_file:
     font_data = base64.b64encode(
         font_file.read()
+    ).decode("utf-8")
+
+
+# ============================================================
+# LEER E INCRUSTAR LA IMAGEN
+# ============================================================
+
+with open(IMAGE_PATH, "rb") as image_file:
+    image_data = base64.b64encode(
+        image_file.read()
     ).decode("utf-8")
 
 
@@ -108,7 +120,7 @@ def generate_typing_text(
         x="{x}"
         y="{y}"
         font-size="{font_size}"
-        font-family="Oswald"
+        font-family="JetBrains Mono"
         font-weight="600"
         fill="url(#gradient)">
 
@@ -162,7 +174,7 @@ def generate_svg():
 
 
     # ========================================================
-    # 1 SEGUNDO ENTRE LAS DOS FRASES
+    # TIEMPO ENTRE LAS DOS FRASES
     # ========================================================
 
     second_start = (
@@ -172,7 +184,7 @@ def generate_svg():
 
 
     # ========================================================
-    # 3 SEGUNDOS CON LAS DOS FRASES COMPLETAS
+    # TIEMPO CON LAS DOS FRASES COMPLETAS
     # ========================================================
 
     disappear_start = (
@@ -257,7 +269,7 @@ def generate_svg():
     # ANCHO DE LA PRIMERA FRASE
     # ========================================================
 
-    first_text_width = 670
+    first_text_width = 770
 
 
     # ========================================================
@@ -322,7 +334,7 @@ def generate_svg():
         x="{cursor_positions[0]}"
         y="{first_y}"
         font-size="{headline["size"]}"
-        font-family="Oswald"
+        font-family="JetBrains Mono"
         font-weight="600"
         fill="url(#gradient)">
 
@@ -368,11 +380,11 @@ def generate_svg():
     # ANCHO DE LA SEGUNDA FRASE
     # ========================================================
 
-    second_text_width = 500
+    second_text_width = 565
 
 
     # ========================================================
-    # POSICIONES DEL CURSOR
+    # POSICIONES DEL CURSOR 2
     # ========================================================
 
     second_cursor_positions = []
@@ -449,7 +461,7 @@ def generate_svg():
         x="{second_x}"
         y="{second_y}"
         font-size="{headline["size"]}"
-        font-family="Oswald"
+        font-family="JetBrains Mono"
         font-weight="600"
         fill="url(#gradient)"
         opacity="0">
@@ -494,12 +506,12 @@ def generate_svg():
     <defs>
 
         <!-- ================================================== -->
-        <!-- FUENTE OSWALD SEMIBOLD -->
+        <!-- FUENTE JetBrains Mono -->
         <!-- ================================================== -->
 
         <style>
             @font-face {{
-                font-family: "Oswald";
+                font-family: "JetBrains Mono";
                 font-style: normal;
                 font-weight: 600;
                 src: url("data:font/ttf;base64,{font_data}")
@@ -537,6 +549,20 @@ def generate_svg():
 
 
     <!-- ================================================== -->
+    <!-- IMAGEN ESQUINA -->
+    <!-- ================================================== -->
+
+    <image
+        href="data:image/png;base64,{image_data}"
+        x="673"
+        y="0"
+        width="227"
+        height="150"
+        preserveAspectRatio="xMidYMid slice"
+    />
+
+
+    <!-- ================================================== -->
     <!-- NOMBRE -->
     <!-- ================================================== -->
 
@@ -544,7 +570,7 @@ def generate_svg():
         x="{name["x"]}"
         y="{name["y"]}"
         font-size="{name["size"]}"
-        font-family="Oswald"
+        font-family="JetBrains Mono"
         font-weight="600"
         fill="url(#gradient)">
 
