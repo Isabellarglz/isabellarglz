@@ -4,6 +4,7 @@
 <!-- Palabras Clave-->
   <img src="./assets/keywords.png" alt="Data Science workflow" width="780" height="50">
 </p>
+
 <!-- Botón Desplegable-->
 
 <details>
@@ -23,8 +24,7 @@
 
 </details>
 
+<!-- Tech Stack-->
+<!-- Contact me-->
+<!-- Otro Widget-->
 <!-- Serpiente-->
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/snake-output/snake.svg" alt="Snake animation" />
-
-###
