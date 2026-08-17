@@ -54,6 +54,29 @@ with open(IMAGE_PATH, "rb") as image_file:
 
 
 # ============================================================
+# GENERAR LOS CUADROS DEL RED GRID
+# ============================================================
+
+def generate_red_grid():
+
+    squares = []
+
+    for x in range(0, 900, 2):
+
+        squares.append(
+            f'''
+        <rect
+            x="{x}"
+            y="148"
+            width="2"
+            height="2"/>
+            '''
+        )
+
+    return "\n".join(squares)
+
+
+# ============================================================
 # GENERAR UNA FRASE ANIMADA
 # ============================================================
 
@@ -497,6 +520,13 @@ def generate_svg():
 
 
     # ========================================================
+    # RED GRID
+    # ========================================================
+
+    red_grid = generate_red_grid()
+
+
+    # ========================================================
     # CREAR SVG
     # ========================================================
 
@@ -524,7 +554,7 @@ def generate_svg():
 
 
         <!-- ================================================== -->
-        <!-- DEGRADADO -->
+        <!-- DEGRADADO DEL NOMBRE -->
         <!-- ================================================== -->
 
         <linearGradient
@@ -545,6 +575,57 @@ def generate_svg():
             <stop
                 offset="100%"
                 stop-color="{gradient_colors[2]}"/>
+
+        </linearGradient>
+
+
+        <!-- ================================================== -->
+        <!-- DEGRADADO ORIGINAL DEL RED GRID -->
+        <!-- ================================================== -->
+
+        <linearGradient
+            id="redGradient"
+            x1="-900"
+            y1="0"
+            x2="0"
+            y2="0"
+            gradientUnits="userSpaceOnUse">
+
+            <stop
+                offset="0%"
+                stop-color="#ff5757"/>
+
+            <stop
+                offset="25%"
+                stop-color="#cb0000"/>
+
+            <stop
+                offset="50%"
+                stop-color="#5b0000"/>
+
+            <stop
+                offset="65%"
+                stop-color="#000000"/>
+
+            <stop
+                offset="80%"
+                stop-color="#910000"/>
+
+            <stop
+                offset="100%"
+                stop-color="#ff0000"/>
+
+            <animate
+                attributeName="x1"
+                values="-900;0;-900"
+                dur="4s"
+                repeatCount="indefinite"/>
+
+            <animate
+                attributeName="x2"
+                values="0;900;0"
+                dur="4s"
+                repeatCount="indefinite"/>
 
         </linearGradient>
 
@@ -608,6 +689,19 @@ def generate_svg():
     <!-- ================================================== -->
 
     {second_cursor_mobile}
+
+
+    <!-- ================================================== -->
+    <!-- RED GRID INFERIOR -->
+    <!-- ================================================== -->
+    <!-- Exactamente el mismo grid original, pero ubicado -->
+    <!-- en x=0, y=148 dentro del banner de 900x150. -->
+
+    <g fill="url(#redGradient)">
+
+        {red_grid}
+
+    </g>
 
 
 </svg>
