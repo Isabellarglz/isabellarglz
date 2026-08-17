@@ -2,7 +2,10 @@ import json
 import base64
 from pathlib import Path
 
+
+# ============================================================
 # RUTAS
+# ============================================================
 
 ROOT = Path(__file__).parent.parent
 
@@ -15,8 +18,9 @@ FONT_PATH = ROOT / "assets" / "fonts" / "JetBrainsMono-Medium.ttf"
 IMAGE_PATH = ROOT / "assets" / "esquina.png"
 
 
-# Acá se cargan los datos de configuración
-
+# ============================================================
+# LEER CONFIGURACIÓN
+# ============================================================
 
 with open(CONFIG_PATH, "r", encoding="utf-8") as file:
     config = json.load(file)
@@ -29,7 +33,9 @@ cursor = config["cursor"]
 gradient_colors = config["gradient"]
 
 
-# Leer e incrustar la fuente JetBrains Mono en base64
+# ============================================================
+# LEER E INCRUSTAR LA FUENTE JetBrains Mono
+# ============================================================
 
 with open(FONT_PATH, "rb") as font_file:
     font_data = base64.b64encode(
@@ -37,7 +43,9 @@ with open(FONT_PATH, "rb") as font_file:
     ).decode("utf-8")
 
 
-# Leer e incrustar la imagen en base64
+# ============================================================
+# LEER E INCRUSTAR LA IMAGEN
+# ============================================================
 
 with open(IMAGE_PATH, "rb") as image_file:
     image_data = base64.b64encode(
@@ -45,7 +53,9 @@ with open(IMAGE_PATH, "rb") as image_file:
     ).decode("utf-8")
 
 
-# generar el texto con efecto de escritura y borrado
+# ============================================================
+# GENERAR UNA FRASE ANIMADA
+# ============================================================
 
 def generate_typing_text(
     text,
@@ -112,7 +122,10 @@ def generate_typing_text(
         font-size="{font_size}"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="#FFFFFF">
+        fill="#FFFFFF"
+        stroke="#000000"
+        stroke-width="1.2"
+        paint-order="stroke fill">
 
         {"".join(letters)}
 
@@ -120,7 +133,9 @@ def generate_typing_text(
     '''
 
 
-# Generar el SVG completo
+# ============================================================
+# GENERAR SVG
+# ============================================================
 
 def generate_svg():
 
@@ -490,20 +505,6 @@ def generate_svg():
     width="{banner["width"]}"
     height="{banner["height"]}"
     viewBox="0 0 {banner["width"]} {banner["height"]}">
-
-    <!-- ================================================== -->
-    <!-- FONDO NEGRO -->
-    <!-- ================================================== -->
-
-    <rect
-        x="0"
-        y="0"
-        width="{banner["width"]}"
-        height="{banner["height"]}"
-        fill="#000000"
-        opacity="0.3"
-    />
-
 
     <defs>
 
