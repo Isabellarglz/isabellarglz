@@ -120,7 +120,7 @@
 
     <text
         x="2"
-        y="55"
+        y="40"
         font-size="55"
         font-family="JetBrains Mono"
         font-weight="600"
@@ -138,7 +138,7 @@
     
     <text
         x="2"
-        y="100"
+        y="85"
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
@@ -416,7 +416,7 @@
     
     <text
         x="2"
-        y="135"
+        y="120"
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
@@ -630,7 +630,7 @@
     
     <text
         x="26.0625"
-        y="100"
+        y="85"
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
@@ -670,7 +670,7 @@
     
     <text
         x="2"
-        y="135"
+        y="120"
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
