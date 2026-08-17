@@ -91,7 +91,7 @@
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)">
+        fill="#FFFFFF">
 
         
         <tspan opacity="0">T<animate
@@ -366,7 +366,7 @@
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)">
+        fill="#FFFFFF">
 
         
         <tspan opacity="0">B<animate
@@ -577,7 +577,7 @@
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)">
+        fill="#FFFFFF">
 
         |
 
@@ -617,7 +617,7 @@
         font-size="20"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)"
+        fill="#FFFFFF"
         opacity="0">
 
         |

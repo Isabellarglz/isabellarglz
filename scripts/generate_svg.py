@@ -122,7 +122,7 @@ def generate_typing_text(
         font-size="{font_size}"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)">
+        fill="#FFFFFF">
 
         {"".join(letters)}
 
@@ -336,7 +336,7 @@ def generate_svg():
         font-size="{headline["size"]}"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)">
+        fill="#FFFFFF">
 
         |
 
@@ -463,7 +463,7 @@ def generate_svg():
         font-size="{headline["size"]}"
         font-family="JetBrains Mono"
         font-weight="600"
-        fill="url(#gradient)"
+        fill="#FFFFFF"
         opacity="0">
 
         |
