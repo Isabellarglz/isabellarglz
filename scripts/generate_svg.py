@@ -2,10 +2,7 @@ import json
 import base64
 from pathlib import Path
 
-
-# ============================================================
 # RUTAS
-# ============================================================
 
 ROOT = Path(__file__).parent.parent
 
@@ -18,9 +15,8 @@ FONT_PATH = ROOT / "assets" / "fonts" / "JetBrainsMono-Medium.ttf"
 IMAGE_PATH = ROOT / "assets" / "esquina.png"
 
 
-# ============================================================
-# LEER CONFIGURACIÓN
-# ============================================================
+# Acá se cargan los datos de configuración
+
 
 with open(CONFIG_PATH, "r", encoding="utf-8") as file:
     config = json.load(file)
@@ -33,9 +29,7 @@ cursor = config["cursor"]
 gradient_colors = config["gradient"]
 
 
-# ============================================================
-# LEER E INCRUSTAR LA FUENTE JetBrains Mono
-# ============================================================
+# Leer e incrustar la fuente JetBrains Mono en base64
 
 with open(FONT_PATH, "rb") as font_file:
     font_data = base64.b64encode(
@@ -43,9 +37,7 @@ with open(FONT_PATH, "rb") as font_file:
     ).decode("utf-8")
 
 
-# ============================================================
-# LEER E INCRUSTAR LA IMAGEN
-# ============================================================
+# Leer e incrustar la imagen en base64
 
 with open(IMAGE_PATH, "rb") as image_file:
     image_data = base64.b64encode(
@@ -53,9 +45,7 @@ with open(IMAGE_PATH, "rb") as image_file:
     ).decode("utf-8")
 
 
-# ============================================================
-# GENERAR UNA FRASE ANIMADA
-# ============================================================
+# generar el texto con efecto de escritura y borrado
 
 def generate_typing_text(
     text,
@@ -130,9 +120,7 @@ def generate_typing_text(
     '''
 
 
-# ============================================================
-# GENERAR SVG
-# ============================================================
+# Generar el SVG completo
 
 def generate_svg():
 
@@ -513,7 +501,7 @@ def generate_svg():
         width="{banner["width"]}"
         height="{banner["height"]}"
         fill="#000000"
-        opacity="0.85"
+        opacity="0.5"
     />
 
 
