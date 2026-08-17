@@ -6,7 +6,6 @@
 </p>
 <details>
   <summary>ABOUT ME</summary>
-
   <p align="center">
     Aquí aparecerá mi información.
   </p>
