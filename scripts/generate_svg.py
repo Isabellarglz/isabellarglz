@@ -503,6 +503,20 @@ def generate_svg():
     height="{banner["height"]}"
     viewBox="0 0 {banner["width"]} {banner["height"]}">
 
+    <!-- ================================================== -->
+    <!-- FONDO NEGRO -->
+    <!-- ================================================== -->
+
+    <rect
+        x="0"
+        y="0"
+        width="{banner["width"]}"
+        height="{banner["height"]}"
+        fill="#000000"
+        opacity="0.85"
+    />
+
+
     <defs>
 
         <!-- ================================================== -->
