@@ -501,7 +501,7 @@ def generate_svg():
         width="{banner["width"]}"
         height="{banner["height"]}"
         fill="#000000"
-        opacity="0.5"
+        opacity="0.3"
     />
 
 
