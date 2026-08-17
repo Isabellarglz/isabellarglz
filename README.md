@@ -22,3 +22,9 @@
   </div>
 
 </details>
+
+<!-- Serpiente-->
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/snake-output/snake.svg" alt="Snake animation" />
+
+###
