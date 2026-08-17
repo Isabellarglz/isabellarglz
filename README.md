@@ -5,9 +5,18 @@
   <img src="./assets/keywords.png" alt="Data Science workflow" width="780" height="50">
 </p>
 <details>
-  <summary>ABOUT ME</summary>
-  <p align="center">
-    Aquí aparecerá mi información.
-  </p>
+  <summary>
+    <strong>ABOUT ME</strong>
+  </summary>
+
+  <br>
+
+  <div align="center">
+
+    <p>
+      Aquí irá el contenido de mi sección About Me.
+    </p>
+
+  </div>
 
 </details>
