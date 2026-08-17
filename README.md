@@ -3,5 +3,5 @@
   <img src="./assets/typing.svg" alt="Isa Rodríguez"><br>
 <!-- Palabras Clave-->
 <p align="center">
-  <img src="./assets/keywords.png" alt="Data Science workflow" width="700" height="30">
+  <img src="./assets/keywords.png" alt="Data Science workflow" width="700" height="50">
 </p>
