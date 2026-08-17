@@ -7,7 +7,7 @@
 <details>
   <summary>
     <p align="center">
-      <img src="./assets/about-me.png" alt="About Me">
+      <img src="./assets/about-button.png" alt="About Me">
     </p>
   </summary>
 
