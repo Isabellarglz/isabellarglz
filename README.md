@@ -6,26 +6,20 @@
 </p>
 
 <!-- Botón Desplegable-->
+<div align="center">
+
 <details>
 <summary>
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="./assets/about-button.png" alt="ABOUT ME">
-
-</td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/ABOUT_ME-CB0000?style=for-the-badge" width="150"><br>
+<font color="#CB0000"><b>click here ←</b></font>
 </summary>
-
 <br>
 
 Aquí va tu texto desplegable.
 
 </details>
+
+</div>
 <!-- Tech Stack-->
 <!-- Contact me-->
 <!-- Otro Widget-->
