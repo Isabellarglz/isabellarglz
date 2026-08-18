@@ -10,7 +10,7 @@
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/ABOUT_ME-CB0000?style=for-the-badge" width="220"><br>
+<img src="https://img.shields.io/badge/ABOUT_ME-CB0000?style=for-the-badge" width="150"><br>
 <font color="#CB0000"><b>click here ←</b></font>
 </summary>
 
