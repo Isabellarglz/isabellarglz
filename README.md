@@ -28,10 +28,7 @@
 </details>
 
 </div>
-<!-- Separacón -->
-<p align="center">
-  <img src="./assets/red-grid.svg" alt="Red Grid">
-</p>
+
 <!-- Tech Stack-->
 
 <!-- Contact me-->
