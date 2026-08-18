@@ -6,8 +6,26 @@
 </p>
 
 <!-- Botón Desplegable-->
+<details>
+<summary>
 
+<table align="center">
+<tr>
+<td align="center">
 
+<img src="./assets/about-button.png" alt="ABOUT ME">
+
+</td>
+</tr>
+</table>
+
+</summary>
+
+<br>
+
+Aquí va tu texto desplegable.
+
+</details>
 <!-- Tech Stack-->
 <!-- Contact me-->
 <!-- Otro Widget-->
