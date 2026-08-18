@@ -10,12 +10,20 @@
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/ABOUT_ME-CB0000?style=for-the-badge" width="150"><br>
+<img src="https://img.shields.io/badge/ABOUT_ME-CB0000?style=for-the-badge" width="220"><br>
 <font color="#CB0000"><b>click here ←</b></font>
 </summary>
-<br>
 
-Aquí va tu texto desplegable.
+<div align="left">
+
+## 👋 Hola, soy Isabella Rodríguez
+
+🎓 Estudiante de **Ciencia de Datos** en la **Universidad del Norte**  
+📊 Apasionada por el análisis de datos, Machine Learning e Inteligencia Artificial  
+🔐 Interesada en Ciberseguridad y protección de datos  
+💻 Data Scientist en formación y desarrolladora por pasión
+
+</div>
 
 </details>
 
