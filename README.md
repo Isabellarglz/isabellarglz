@@ -30,7 +30,17 @@
 </div>
 
 <!-- Tech Stack-->
+<table width="900" height="90">
+<tr>
+<td align="center">
 
+**TECH STACK**
+
+<!-- Coloca aquí tus íconos -->
+
+</td>
+</tr>
+</table>
 <!-- Contact me-->
 <!-- Otro Widget-->
 <!-- Serpiente-->
