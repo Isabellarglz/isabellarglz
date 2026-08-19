@@ -4,7 +4,7 @@
     </p>
   <!-- Palabras Clave-->
   <p align="center">
-    <img src="./assets/keywords.png" alt="Data Science workflow" width="730" height="50">
+    <img src="./assets/keywords.png" alt="Data Science workflow" width="710" height="50">
   </p>
   
   <!-- Botón Desplegable-->
