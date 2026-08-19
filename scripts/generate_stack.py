@@ -27,27 +27,27 @@ OUTPUT = ASSETS / "stack.svg"
 # ============================================================
 
 SVG_WIDTH = 900
-SVG_HEIGHT = 150
+SVG_HEIGHT = 120
 
 # Dimensiones del TECH STACK
 TECH_WIDTH = 900
 
-RECT_HEIGHT = 140
-RECT_Y = 5
+RECT_HEIGHT = 120
+RECT_Y = 0
 CORNER_RADIUS = 18
 
 # Posición del título
 TITLE_Y = 25
 
 # Dimensiones de la imagen
-IMAGE_WIDTH = 600
-IMAGE_HEIGHT = 190
+IMAGE_WIDTH = 400
+IMAGE_HEIGHT = 110
 
 # Posición horizontal de la imagen
 IMAGE_X = (TECH_WIDTH - IMAGE_WIDTH) / 2
 
 # Posición vertical de la imagen
-IMAGE_Y = 1
+IMAGE_Y = 25
 
 
 # ============================================================
@@ -181,9 +181,9 @@ def generate_svg():
 
     <line
         x1="0"
-        y1="{RECT_Y + RECT_HEIGHT}"
+        y1="119"
         x2="{TECH_WIDTH}"
-        y2="{RECT_Y + RECT_HEIGHT}"
+        y2="119"
         stroke="#515151"
         stroke-width="2"
     />
@@ -203,8 +203,8 @@ def generate_svg():
         stroke-width="2"
         paint-order="stroke fill"
         font-family="JetBrains Mono"
-        font-size="20"
-        font-weight="700"
+        font-size="15"
+        font-weight="600"
         font-style="normal"
         letter-spacing="6"
     >
