@@ -40,14 +40,14 @@ CORNER_RADIUS = 18
 TITLE_Y = 25
 
 # Dimensiones de la imagen
-IMAGE_WIDTH = 400
-IMAGE_HEIGHT = 110
+IMAGE_WIDTH = 420
+IMAGE_HEIGHT = 130
 
 # Posición horizontal de la imagen
 IMAGE_X = (TECH_WIDTH - IMAGE_WIDTH) / 2
 
 # Posición vertical de la imagen
-IMAGE_Y = 18
+IMAGE_Y = 16
 
 
 # ============================================================
