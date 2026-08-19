@@ -47,7 +47,7 @@ IMAGE_HEIGHT = 110
 IMAGE_X = (TECH_WIDTH - IMAGE_WIDTH) / 2
 
 # Posición vertical de la imagen
-IMAGE_Y = 25
+IMAGE_Y = 18
 
 
 # ============================================================
