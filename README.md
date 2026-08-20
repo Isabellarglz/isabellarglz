@@ -25,13 +25,18 @@
   </details>
 </div>
 
-<!-- Tech Stack -->
-<br>
+<!-- Separador -->
+<div align="center">
+    <hr width="900">
+</div>
 
+<!-- Tech Stack -->
 <p align="center">
   <img src="./assets/stack.svg" alt="Tech Stack">
 </p>
-
+<div align="center">
+    <hr width="900">
+</div>
 <!-- Conecta conmigo -->
 <div align="center">
   <img src="./assets/connect.svg" alt="Conecta Conmigo">
@@ -58,9 +63,11 @@
   </table>
 </div>
 
+<!-- Separador -->
 <div align="center">
     <hr width="900">
 </div>
-<!-- Otro Widget -->
 
+<!-- Otro Widget -->
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&width=900&accent_color=ff0000&logo_color=ff0000)
 <!-- Serpiente -->
