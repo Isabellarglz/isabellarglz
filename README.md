@@ -21,26 +21,27 @@
       🔐 Interesada en <strong>Ciberseguridad</strong> y protección de datos<br>
       💻 <strong>Data Scientist</strong> en formación y desarrolladora por pasión
     </div>
-
   </details>
 </div>
 
 <!-- Separador -->
 <div align="center">
-    <hr width="900">
+  <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
 </div>
 
 <!-- Tech Stack -->
 <p align="center">
   <img src="./assets/stack.svg" alt="Tech Stack">
 </p>
+
+<!-- Separador -->
 <div align="center">
-    <hr width="900">
+  <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
 </div>
+
 <!-- Conecta conmigo -->
 <div align="center">
   <img src="./assets/connect.svg" alt="Conecta Conmigo">
-
   <!-- Iconos -->
   <table align="center" cellpadding="0" cellspacing="0">
     <tr>
@@ -65,9 +66,12 @@
 
 <!-- Separador -->
 <div align="center">
-    <hr width="900">
+  <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
 </div>
 
 <!-- Otro Widget -->
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&width=900&accent_color=ff0000&logo_color=ff0000)
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&width=900&accent_color=ff0000&logo_color=ff0000" alt="Spotify recently played">
+</p>
+
 <!-- Serpiente -->
