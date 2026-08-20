@@ -69,6 +69,18 @@
   <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
 </div>
 
+<!-- Pac Man -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+<!-- Separador -->
+<div align="center">
+  <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
+</div>
 <!-- Spotify Widget -->
 <div align="center">
   <picture>
@@ -78,11 +90,3 @@
   </picture>
 </div>
 
-<!-- Pac Man -->
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Isabellarglz/Isabellarglz/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
