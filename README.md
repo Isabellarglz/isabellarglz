@@ -37,5 +37,21 @@
     <img src="./assets/stack.svg" alt="Tech Stack">
 </p>
 <!-- Contact me-->
+<p align="center">
+    <img src="./assets/connect.svg" alt="Conecta Conmigo">
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/isabellarglz/" target="_blank">
+    <img src="./assets/ig-icon.png" width="60" alt="Instagram">
+  </a>
+
+  <a href="mailto:roisabella1106@gmail.com">
+    <img src="./assets/gmail-icon.png" width="60" alt="Gmail">
+  </a>
+
+  <a href="www.linkedin.com/in/isabella-rodríguez-gonzález-21754542b" target="_blank">
+    <img src="./assets/link-icon.png" width="60" alt="LinkedIn">
+  </a>
+</p>
 <!-- Otro Widget-->
 <!-- Serpiente-->
