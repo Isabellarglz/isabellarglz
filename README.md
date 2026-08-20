@@ -49,9 +49,8 @@
     <img src="./assets/gmail-icon.png" width="60" alt="Gmail">
   </a>
 
-  <a href="www.linkedin.com/in/isabella-rodríguez-gonzález-21754542b" target="_blank">
-    <img src="./assets/link-icon.png" width="60" alt="LinkedIn">
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/isabella-rodr%C3%ADguez-gonz%C3%A1lez-21754542b/" target="_blank">
+  <img src="./assets/link-icon.png" width="60" alt="LinkedIn">
+</a>
 <!-- Otro Widget-->
 <!-- Serpiente-->
