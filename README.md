@@ -69,9 +69,11 @@
   <hr style="width:80%; border: none; height: 2px; background-color: #CB0000;">
 </div>
 
-<!-- Otro Widget -->
-<p align="center">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&width=900&accent_color=ff0000&logo_color=ff0000" alt="Spotify recently played">
-</p>
+<!-- Spotify Widget -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&amp;theme=dark&amp;count=4&amp;width=900&amp;accent_color=800000&amp;logo_color=ff0000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&amp;theme=light&amp;count=4&amp;width=900&amp;accent_color=800000&amp;logo_color=ff0000" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ntzkrk2yof57gr7nyd6os45uj&amp;theme=dark&amp;count=4&amp;width=900&amp;accent_color=800000&amp;logo_color=ff0000" alt="Spotify recently played" width="900" />
+</picture>
 
 <!-- Serpiente -->
